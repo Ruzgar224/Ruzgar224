@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ruzgar224
-- 👀 I’m interested in Codeing
+- 👀 I’m interested in Writeing codes
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
